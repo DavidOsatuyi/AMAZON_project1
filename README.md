@@ -168,12 +168,15 @@ Comparison with Initial Findings
 Comparison with initial findings was not found.
 
 DATA VISUALIZATIONS & CHARTS
-
+![image](https://github.com/user-attachments/assets/fa7d47d3-eb7c-470c-8e29-f906d326d036)
 The price trend report shows that 2009, 2012, and 2014 had the largest price increment.
 
+![image](https://github.com/user-attachments/assets/f6dab241-a956-424e-ac21-f735778d61e1)
 Non — friction books topped the demand list, hence generating the reviews, sales, and ratings.
 
+![image](https://github.com/user-attachments/assets/f827f73e-6e8d-4724-b5df-89e08da016eb)
 “The Fault In Our Stars” is our most reviewed book, while the number of reviews for “Becoming” came next.
+
 RECOMMENDATIONS AND OBSERVATIONS
 Actionable Insights
 ● I recommend that we segment our marketing based on book performance archetypes — high review/low price, high price/low review, and so on — to better target ads and placements.
