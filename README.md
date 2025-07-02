@@ -1,8 +1,9 @@
 ![AMAZON Project Dashboard by David Osatuyi](https://github.com/user-attachments/assets/57bb6447-95d4-4767-bfc1-fdd7d6cf0268)
 TECHNICAL REPORT
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This report tracks the performance of books published in 2009–2019 across various countries on Amazon. It includes the story of the data and every process taken to achieve our insights. These are the sections for this report below;
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ● Introduction
 
 ● Story of Data
@@ -23,6 +24,7 @@ This report tracks the performance of books published in 2009–2019 across vari
 
 ● References & Appendices
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INTRODUCTION
 Objective Of the Project
 This project examines user ratings, reviews, price, genre, and authorship, helping to analyze market trends, reader preferences, and regional differences in book success.
@@ -49,7 +51,9 @@ Datasets:
 
 Methods: Data Cleaning, Pivot Tables, and Dashboard Creation
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 STORY OF DATA
+-------------
 Data Source
 Kaggle.com
 
@@ -60,7 +64,7 @@ Data Limitations or Biases
 The dataset is subject to sampling bias, which arises from the presence of unrepresentative samples. This means that certain characteristics are overrepresented or underrepresented, potentially leading to limited generalizability; however, results may not be applicable to other contexts or groups.
 
 DATA SPLITTING AND PREPROCESSING
-
+--------------------------------
 Data Cleaning
 ● Removed repeated entries.
 
@@ -114,7 +118,9 @@ Stakeholders
 Value to the Industry
 ● Insights from this report help optimize author performance and effective pricing that drives both profitability and customer satisfaction.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PRE-ANALYSIS
+-------------------
 Identify Key Trends
 ● Non—fiction contributes significantly to revenue.
 
@@ -137,6 +143,7 @@ Initial Insights
 ● Books priced between $5 and $15 appear to hit a sweet spot for both affordability and review engagement.
 
 IN-ANALYSIS
+-----------
 Unconfirmed Insights
 ● Certain books had higher order frequencies.
 
@@ -155,6 +162,7 @@ Analysis Techniques Used in Excel
 ● Pivot Tables
 
 POST-ANALYSIS AND INSIGHTS
+--------------------------
 Key Findings
 ● Jeff Kinney has the highest number of books in the dataset (12), followed closely by Suzanne Collins, Rick Riordan, and Gary Chapman.
 
@@ -167,7 +175,9 @@ Key Findings
 Comparison with Initial Findings
 Comparison with initial findings was not found.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DATA VISUALIZATIONS & CHARTS
+-----------------------------
 ![image](https://github.com/user-attachments/assets/fa7d47d3-eb7c-470c-8e29-f906d326d036)
 The price trend report shows that 2009, 2012, and 2014 had the largest price increment.
 
@@ -177,7 +187,9 @@ Non — friction books topped the demand list, hence generating the reviews, sal
 ![image](https://github.com/user-attachments/assets/f827f73e-6e8d-4724-b5df-89e08da016eb)
 “The Fault In Our Stars” is our most reviewed book, while the number of reviews for “Becoming” came next.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RECOMMENDATIONS AND OBSERVATIONS
+--------------------------------
 Actionable Insights
 ● I recommend that we segment our marketing based on book performance archetypes — high review/low price, high price/low review, and so on — to better target ads and placements.
 
@@ -208,6 +220,7 @@ Unexpected Outcomes
 None found
 
 CONCLUSION
+-----------
 Key Learnings
 ● Specific author, regions, and customer engagement strategies largely influence sales revenue.
 
