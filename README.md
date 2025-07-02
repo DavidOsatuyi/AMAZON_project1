@@ -26,13 +26,17 @@ This report tracks the performance of books published in 2009–2019 across vari
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INTRODUCTION
+------------
 Objective Of the Project
+
 This project examines user ratings, reviews, price, genre, and authorship, helping to analyze market trends, reader preferences, and regional differences in book success.
 
 Problem Being Addressed
+
 The report seeks to identify books having the highest reviews and rating, the key authors driving revenue, recognize the dominant genres, seasonal trends, and optimize sales strategies.
 
 Key Datasets and Methodologies
+
 Datasets:
 
 1. Book
